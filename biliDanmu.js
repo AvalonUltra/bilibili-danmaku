@@ -19,7 +19,7 @@
 // Define widget metadata.
 global.WidgetMetadata = {
   id: 'forward.biliDanmu',
-  title: 'B站弹幕',
+  title: 'bilibiliDanmu',
   version: '1.0.0',
   description: '搜索B站视频并获取其弹幕',
   author: 'ChatGPT',
