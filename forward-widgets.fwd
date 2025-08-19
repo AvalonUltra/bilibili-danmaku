@@ -5,7 +5,7 @@
     {
       "id": "forward.biliDanmu",
       "title": "bilibiliDanmu",
-      "description": "搜索视频并获取B站弹幕",
+      "description": "搜索B站视频并获取其弹幕",
       "version": "1.0.0",
       "requiredVersion": "0.0.2",
       "author": "Avalon",
