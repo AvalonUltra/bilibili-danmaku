@@ -1,0 +1,15 @@
+{
+  "title": "我的 Forward Widgets",
+  "description": "bilibiliDanmaku",
+  "widgets": [
+    {
+      "id": "forward.biliDanmaku",
+      "title": "bilibiliDanmaku",
+      "description": "搜索视频并获取B站弹幕",
+      "version": "1.0.0",
+      "requiredVersion": "0.0.2",
+      "author": "Avalon",
+      "url": "https://avalonultra.github.io/bilibili-danmaku/biliDanmu.js"
+    }
+  ]
+}
